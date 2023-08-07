@@ -2,7 +2,7 @@
 const currentCount = ref(0)
 
 const incrementCount = () => {
-  currentCount.value += 2
+  currentCount.value += 1
 }
 </script>
 
