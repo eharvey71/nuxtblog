@@ -1,5 +1,5 @@
 ---
-title: Whorking with Vue Components in Nuxt
+title: Working with Vue Components in Nuxt
 author: "@eric"
 date:
   published: "2023-07-09"
