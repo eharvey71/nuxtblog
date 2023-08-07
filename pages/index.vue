@@ -1,6 +1,6 @@
 <template>
   <main>
-    <TheHero> A Nuxt Content v2 Blog with Bulma </TheHero>
+    <TheHero>A Sample Blog - Built with Nuxt 3, Bulma CSS, Nuxt Content 2</TheHero>
     <BlogPostList />
   </main>
 </template>

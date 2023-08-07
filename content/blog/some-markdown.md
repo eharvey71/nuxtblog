@@ -3,7 +3,7 @@ title: "This is amazing for blogging in Markdown"
 author: "@eric"
 date:
   published: "07-10-2023"
-description: A short description
+description: Some sample markdown
 ---
 
 # Sample Markdown
